@@ -5,7 +5,7 @@ This project implements an Artificial Neural Network (ANN) to detect fraudulent 
 
 # Objectives
 Build an ANN-based binary classification model
-Detect fraudulent transactions with high accuracy
+Detect fraudulent transactions with high accuracy.
 Handle class imbalance effectively
 Evaluate model performance using appropriate metrics
 
